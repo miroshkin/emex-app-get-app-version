@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmexApp_GetAppVersion", "EmexApp_GetAppVersion\EmexApp_GetAppVersion.csproj", "{6C6F40C8-2A88-4D5B-8CEF-14BD4B284B37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emex-app_get-app-version", "EmexApp_GetAppVersion\emex-app_get-app-version.csproj", "{6C6F40C8-2A88-4D5B-8CEF-14BD4B284B37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
