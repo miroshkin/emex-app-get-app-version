@@ -9,7 +9,7 @@ namespace EmexApp_GetAppVersion
 {
     class Program
     {
-        
+        [STAThread]
         static void Main(string[] args)
         {
             var date = DateTime.Now;
